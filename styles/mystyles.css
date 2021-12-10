@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #575757;
+    background-image: url(../images/redcastle.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    color: beige;
+}
+
+h3 {
+    color: beige;
+}
+
+h4 {
+    color: beige;
+}
+
+.alltext {
+    color: beige;
+}
+
+main {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.center{
+    text-align: center;
+    justify-content: center;
+}
+
+a.link:hover {
+    text-decoration: underline;
+}
